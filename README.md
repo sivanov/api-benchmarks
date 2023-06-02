@@ -162,3 +162,12 @@ Percentage of the requests served within a certain time (ms)
   99%     16
  100%     26 (longest request)
 ```
+
+### Loadtest
+
+[NPM page](https://www.npmjs.com/package/loadtest)
+
+[Github page](https://github.com/alexfernandez/loadtest)
+
+Install globally as root:
+> npm install -g loadtest
